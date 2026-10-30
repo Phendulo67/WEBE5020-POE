@@ -7,14 +7,7 @@ THE MISSION Monochrome has a clear mission, which is to unite all South Africans
 
 References • Unsplash (2026) Unsplash: Beautiful free images. Available at: https://unsplash.com/ (Accessed: 13 August 2026). • W3Schools (2026) W3Schools online web tutorials. Available at: https://www.w3schools.com/ (Accessed: 13 August 2026). • MDN Web Docs (2026) Learn web development. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development (Accessed: 13 August 2026). • freeCodeCamp (2026) Responsive web design. Available at: https://www.freecodecamp.org/ (Accessed: 13 August 2026 A website for a modeling agency
 
-A responsive five-page modelling agency website using a premium black, white and grey editorial aesthetic.
-
-Pages
-Home
-About
-Models
-Enquiries
-Contact
+PART 3 IMPROVEMENTS
 Improvements
 Premium editorial typography and spacing
 Stronger visual hierarchy and page consistency
@@ -32,9 +25,44 @@ Accessibility improvements including focus states, semantic structure and alt te
 Suggested testing
 Test at approximately:
 
-Desktop: 1366px
-Tablet: 800px
-Mobile: 390px
-Check every navigation link, image, form field, hover effect and mobile menu.
+# Changelog —
 
-Note: the enquiry form is front-end only. A real submission system would require a backend or form service.
+### Added
+
+* **Image Lightbox:** Added functionality that allows users to click images to view them in an enlarged overlay.
+* **Image Navigation:** Added previous and next controls to navigate between images in the lightbox.
+* **Keyboard Accessibility:** Added keyboard controls for closing and navigating the lightbox.
+* **SEO Metadata:** Added search engine optimisation metadata to the website's HTML pages.
+* **Meta Descriptions:** Added page-specific descriptions to help search engines understand the website's content.
+* **Open Graph Metadata:** Added metadata to improve link previews when pages are shared on social media.
+* **Social Media Cards:** Added Twitter card metadata.
+* **Additional Enquiry Form:** Added a project-specific enquiry form to the Contact page.
+* **Form Validation:** Added browser-side validation for required fields and user input.
+* **User Feedback:** Added feedback for form validation.
+* **Documentation:** Updated the README with information about the new features and testing procedures.
+
+### Improved
+
+* **User Experience:** Improved the way visitors interact with model images.
+* **Navigation Between Images:** Added controls for navigating through the lightbox.
+* **Contact Functionality:** Separated general project enquiries from model applications.
+* **Accessibility:** Improved keyboard interaction with the image lightbox.
+* **Website Consistency:** Maintained the black, white and grey visual identity across the website.
+
+### Technical Changes
+
+* Added a shared `script.js` file to manage interactive functionality.
+* Updated HTML metadata across the website's pages.
+* Added client-side form validation.
+* Performed basic HTML structure and JavaScript syntax checks.
+
+### Pending Improvements
+
+* Connect the enquiry forms to a backend or secure form-processing service.
+* Configure canonical URLs after website deployment.
+* Test all website features across multiple browsers and devices.
+* Complete GitHub deployment and verify the live website.
+* Conduct further accessibility and responsive-design testing.
+
+
+orm is front-end only. A real submission system would require a backend or form service.
