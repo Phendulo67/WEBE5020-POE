@@ -43,7 +43,7 @@ Test at approximately:
 
 ### Improved
 
-* **User Experience:** Improved the way visitors interact with model images.
+* Improved the way visitors interact with model images.
 * **Navigation Between Images:** Added controls for navigating through the lightbox.
 * **Contact Functionality:** Separated general project enquiries from model applications.
 * **Accessibility:** Improved keyboard interaction with the image lightbox.
@@ -59,8 +59,6 @@ Test at approximately:
 
 
 * References • Unsplash (2026) Unsplash: Beautiful free images. Available at: https://unsplash.com/ (Accessed: 13 August 2026). • W3Schools (2026) W3Schools online web tutorials. Available at: https://www.w3schools.com/ (Accessed: 13 August 2026). • MDN Web Docs (2026) Learn web development. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development (Accessed: 13 August 2026). • freeCodeCamp (2026) Responsive web design. Available at: https://www.freecodecamp.org/ (Accessed: 13 August 2026
-* Test all website features across multiple browsers and devices.
-* Complete GitHub deployment and verify the live website.
-* Conduct further accessibility and responsive-design testing.
+
 
 
